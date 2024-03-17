@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ikytsu
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and C
 - 📫 Discord: ikytsu
 - 😄 Pronouns: he/him
