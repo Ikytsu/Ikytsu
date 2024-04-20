@@ -8,7 +8,7 @@
 ## About me
 
 I'm a French developper who love low level programming.
-I like programming programming languages and i like brainfuck.
+I like programming programming languages and brainfuck.
 
 ### IDE Used
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge"/><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge"/>
