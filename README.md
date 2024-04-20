@@ -14,7 +14,7 @@ I like programming programming languages and brainfuck.
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge"/><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge"/>
 
 ### Programming languages
-[![My Skills](https://skillicons.dev/icons?i=c++&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 
 
 ## Operating system
