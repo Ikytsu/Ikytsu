@@ -14,8 +14,8 @@ I like programming programming languages and brainfuck.
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim&theme=dark)](https://skillicons.dev)
 
 ### Programming languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,lua&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,lua,unity&theme=dark)](https://skillicons.dev)
 
 
 ## Operating system
-<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=for-the-badge"/>
+[![My Skills](https://skillicons.dev/icons?i=mint&theme=dark)](https://skillicons.dev)
