@@ -11,8 +11,8 @@ I am learning asm.
 ### IDE Used
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim&theme=dark)](https://skillicons.dev)
 
-### Programming languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity&theme=dark)](https://skillicons.dev)
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity,blender&theme=dark)](https://skillicons.dev)
 
 ## Operating system
 [![My Skills](https://skillicons.dev/icons?i=linux,mint&theme=dark)](https://skillicons.dev)
