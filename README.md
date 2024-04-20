@@ -1,6 +1,8 @@
 # Ikytsu - Welcome to my Github profile !
 
+## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikytsu&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15Slamyxx&layout=compact&theme=tokyonight)]
 
 ## About me
 
@@ -16,3 +18,4 @@ I am learning asm.
 
 ## Operating system
 [![My Skills](https://skillicons.dev/icons?i=linux,mint&theme=dark)](https://skillicons.dev)
+
