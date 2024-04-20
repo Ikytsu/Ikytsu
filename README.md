@@ -2,7 +2,7 @@
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikytsu&theme=tokyonight)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15Slamyxx&layout=compact&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikytsu&layout=compact&theme=tokyonight)]
 
 ## About me
 
