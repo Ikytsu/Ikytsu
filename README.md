@@ -1,6 +1,6 @@
 # Ikytsu - Welcome to my Github profile !
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikytsu)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikytsu&theme=radical)]
 
 ## About me
 
