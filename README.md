@@ -1,11 +1,3 @@
-<div style="width: 100%;">
-  <a href="" target="_blank">
-    <img src="standard (1).gif" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
-
-
-
 # Ikytsu - Welcome to my Github profile !
 
 ### Low level programmer
@@ -33,20 +25,3 @@ I may not be available often but I can always help 👍
 ### ⚙️ Game / Game Engine Used
 
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=for-the-badge&logo=Unreal-Engine&logoColor=white"><img src ="https://img.shields.io/badge/SCP%20Foundation-FFFFFF.svg?style=for-the-badge&logo=SCP-Foundation&logoColor=black"><img src ="https://img.shields.io/badge/Unity-FFF.svg?style=for-the-badge&logo=unity&logoColor=black">
-
-
-
-<!--
-**Maxime66410/Maxime66410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
