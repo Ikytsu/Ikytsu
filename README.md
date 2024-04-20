@@ -18,4 +18,4 @@ I like programming programming languages and brainfuck.
 
 
 ## Operating system
-[![My Skills](https://skillicons.dev/icons?i=mint&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,mint&theme=dark)](https://skillicons.dev)
