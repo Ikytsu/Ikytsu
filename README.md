@@ -6,13 +6,13 @@
 
 I'm a French developper who love low level programming.
 I like programming programming languages and brainfuck.
+I am learning asm.
 
 ### IDE Used
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim&theme=dark)](https://skillicons.dev)
 
 ### Programming languages
-[![My Skills](https://skillicons.dev/icons?i=x86,c,cpp,cs,python,java,lua,unity&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity&theme=dark)](https://skillicons.dev)
 
 ## Operating system
 [![My Skills](https://skillicons.dev/icons?i=linux,mint&theme=dark)](https://skillicons.dev)
