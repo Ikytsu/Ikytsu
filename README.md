@@ -1,4 +1,4 @@
-![326684855-40ad6d63-6a5f-47af-8289-7104358f3c51](https://github.com/Ikytsu/Ikytsu/assets/155775453/47899bcd-f83c-4feb-9df2-e02befbb556a)# Ikytsu - Welcome to my Github profile !
+# Ikytsu - Welcome to my Github profile !
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikytsu&theme=tokyonight)]
@@ -19,5 +19,5 @@ I am learning asm.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity,blender&theme=dark)](https://skillicons.dev)
 
 ## Operating system
-
+![326684855-40ad6d63-6a5f-47af-8289-7104358f3c51](https://github.com/Ikytsu/Ikytsu/assets/155775453/47899bcd-f83c-4feb-9df2-e02befbb556a)
 
