@@ -11,7 +11,7 @@ I'm a French developper who love low level programming.
 I like programming programming languages and brainfuck.
 I am learning asm.
 
-### IDE Used
+### Using IDE
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,neovim&theme=dark)](https://skillicons.dev)
 
 ### Skills
