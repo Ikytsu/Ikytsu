@@ -12,7 +12,7 @@ I like programming programming languages and brainfuck.
 I am learning asm and llvm.
 I am working on a programming language :).
 
-### Using IDE
+### Using editor
 
 ![micro-editor](https://github.com/Ikytsu/Ikytsu/assets/155775453/363328bb-5bec-487b-a347-190f237344b6)<?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
