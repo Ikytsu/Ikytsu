@@ -19,5 +19,5 @@ I am working on a programming language :).
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity,blender&theme=dark)](https://skillicons.dev)
 
-## Operating system
+## Operating systems
 [![My Skills](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
