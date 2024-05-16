@@ -20,6 +20,5 @@ I am working on a programming language :).
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity,blender&theme=dark)](https://skillicons.dev)
 
 ## Operating systems
-![image](https://github.com/Ikytsu/Ikytsu/assets/155775453/b255d099-4725-445b-ab3d-1390999d95f8)
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev) ![image](https://github.com/Ikytsu/Ikytsu/assets/155775453/b255d099-4725-445b-ab3d-1390999d95f8)
 
-[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
