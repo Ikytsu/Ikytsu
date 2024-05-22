@@ -14,8 +14,6 @@ I am working on a programming language :).
 
 ### Using editors
 
-![micro-editor](https://github.com/Ikytsu/Ikytsu/assets/155775453/aee24e6f-c66e-4be3-bae1-e1912c8bc13d)
-
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode&theme=dark)](https://skillicons.dev)
 
 ### Skills
