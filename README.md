@@ -12,12 +12,12 @@ I like programming programming languages and brainfuck.
 I am learning asm and llvm.
 I am working on a programming language :).
 
-### Using editors
+## Using editors
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode&theme=dark)](https://skillicons.dev)
 
-### Skills
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity,blender&theme=dark)](https://skillicons.dev)
 
-### Operating systems
+## Operating systems
 [![My Skills](https://skillicons.dev/icons?i=linux,mint&theme=dark)](https://skillicons.dev)
 
