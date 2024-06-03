@@ -19,5 +19,5 @@ I am working on a programming language :).
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity,blender&theme=dark)](https://skillicons.dev)
 
 ## Operating systems
-[![My Skills](https://skillicons.dev/icons?i=linux,mint&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev) Fedora
 
