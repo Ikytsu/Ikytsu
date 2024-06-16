@@ -13,8 +13,7 @@ I am learning asm and llvm.
 I am working on a programming language :).
 
 ## Using editors
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode&theme=dark)](https://skillicons.dev)
-
+![image](https://github.com/Ikytsu/Ikytsu/assets/155775453/45dd95cb-d2b8-4149-949c-3391fce8c303)
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity,blender&theme=dark)](https://skillicons.dev)
 
