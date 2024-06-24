@@ -17,5 +17,5 @@ I am learning asm and llvm.
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,lua,unity,blender&theme=dark)](https://skillicons.dev)
 
 ## Operating system
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,fedora&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,redhat&theme=dark)](https://skillicons.dev)
 
