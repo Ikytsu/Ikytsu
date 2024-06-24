@@ -8,7 +8,6 @@
 ## About me
 
 I'm a French developper who love low level programming.
-I like programming programming languages and brainfuck.
 I am learning asm and llvm.
 
 ## Using editors
