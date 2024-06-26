@@ -18,6 +18,6 @@ I am learning asm and llvm.
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash&theme=dark)](https://skillicons.dev)
 
-## Operating system
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,redhat&theme=dark)](https://skillicons.dev)
+## Operating systems
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,redhat,mint&theme=dark)](https://skillicons.dev)
 
