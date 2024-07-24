@@ -22,5 +22,5 @@ I am learning asm and llvm.
 [![My Skills](https://skillicons.dev/icons?i=linux,mint&theme=dark)](https://skillicons.dev)
 
 ## Other operating systems
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,redhat&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,redhat&theme=dark)](https://skillicons.dev)
 
