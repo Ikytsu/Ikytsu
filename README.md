@@ -16,7 +16,7 @@ I am learning asm and llvm.
 ### Other editors
 [![My Skills](https://skillicons.dev/icons?i=vim,neovim&theme=dark)](https://skillicons.dev)
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,git&theme=dark)](https://skillicons.dev)
 
 ## Main operating system
 [![My Skills](https://skillicons.dev/icons?i=linux,mint&theme=dark)](https://skillicons.dev)
