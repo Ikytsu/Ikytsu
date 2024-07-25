@@ -14,7 +14,7 @@ I am learning asm and llvm.
 ### Main editor
 ![image](https://github.com/Ikytsu/Ikytsu/assets/155775453/45dd95cb-d2b8-4149-949c-3391fce8c303)
 ### Other editors
-[![My Skills](https://skillicons.dev/icons?i=vim,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode&theme=dark)](https://skillicons.dev)
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,git&theme=dark)](https://skillicons.dev)
 
